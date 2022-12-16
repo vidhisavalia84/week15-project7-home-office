@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.053">
+  <properties />
+  
+  
+            <testcase name="anAustralianComingToUKForTourism" time="1.213" classname="gov.uk.check.visa.testsuite.VisaConformationTest" />
+                <testcase name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" time="1.310" classname="gov.uk.check.visa.testsuite.VisaConformationTest" />
+                <testcase name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" time="6.530" classname="gov.uk.check.visa.testsuite.VisaConformationTest" />
+      
+</testsuite>
